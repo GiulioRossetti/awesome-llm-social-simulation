@@ -135,10 +135,11 @@
 | **GA-S³** | [[Paper](https://arxiv.org/abs/2506.03532)] | HUST | 2025.06 | — | Group agents for social network simulation | [[Code](https://github.com/AI4SS/GAS-3)] |
 | **LLM-AIDSim** | [[Paper](https://www.researchgate.net/publication/387719929)] | — | 2025.01 | — | Influence diffusion simulation in social networks | — |
 | **OASIS** | [[Paper](https://arxiv.org/abs/2411.11581)] | CAMEL-AI | 2024.11 | 1M agents | Million-agent social interaction simulation | [[Code](https://github.com/camel-ai/oasis)] |
-| **YSocial** | [[Paper](https://arxiv.org/abs/2408.00818)] | CNR | 2024.08 | — | LLM-powered social media digital twin | [[Code](https://ysocialtwin.github.io/)] [[🔥 Website](http://y-not.social)]|
+| **YSocial** | [[Paper](https://arxiv.org/abs/2408.00818)] | CNR | 2024.08 | 1k+ (standard), 100k+ (hpc variant) | LLM-powered social media digital twin | [[Code](https://ysocialtwin.github.io/)] [[🔥 Website](http://y-not.social)]|
 | **S³** | [[Paper](https://arxiv.org/abs/2307.14984)] | Tsinghua FIB | 2023.07 | — | Foundational social network simulator; simulates emotion, attitude, interaction behaviors | — |
 | **TWON** | [[Paper](https://www.twon-project.eu/)] | EU Project | 2023 | — | Twin of Online Social Networks; EU-funded | [[Zenodo](https://zenodo.org/records/15577602)] |
 
+> **Note:** YSocial accepted for publication in Big Data & Society (2026). Platform development is currently active (v3.0.0 released on 2025.11. v4.0.0 planned for 2026.05).
 ---
 
 ## 🧪 Evaluations & Benchmarks
