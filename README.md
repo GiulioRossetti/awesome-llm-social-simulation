@@ -135,7 +135,7 @@
 | **GA-S³** | [[Paper](https://arxiv.org/abs/2506.03532)] | HUST | 2025.06 | — | Group agents for social network simulation | [[Code](https://github.com/AI4SS/GAS-3)] |
 | **LLM-AIDSim** | [[Paper](https://www.researchgate.net/publication/387719929)] | — | 2025.01 | — | Influence diffusion simulation in social networks | — |
 | **OASIS** | [[Paper](https://arxiv.org/abs/2411.11581)] | CAMEL-AI | 2024.11 | 1M agents | Million-agent social interaction simulation | [[Code](https://github.com/camel-ai/oasis)] |
-| **Y Social** | [[Paper](https://arxiv.org/abs/2408.00818)] | Pisa | 2024.08 | — | LLM-powered social media digital twin | [[Code](https://ysocialtwin.github.io/)] |
+| **YSocial** | [[Paper](https://arxiv.org/abs/2408.00818)] | CNR | 2024.08 | — | LLM-powered social media digital twin | [[Code](https://ysocialtwin.github.io/)] [[🔥 Website](http://y-not.social)]|
 | **S³** | [[Paper](https://arxiv.org/abs/2307.14984)] | Tsinghua FIB | 2023.07 | — | Foundational social network simulator; simulates emotion, attitude, interaction behaviors | — |
 | **TWON** | [[Paper](https://www.twon-project.eu/)] | EU Project | 2023 | — | Twin of Online Social Networks; EU-funded | [[Zenodo](https://zenodo.org/records/15577602)] |
 
@@ -382,6 +382,7 @@
 | **BIGAI** | — | Beijing Institute for General AI | CivRealm |
 | **IRD/Sorbonne (GAMA)** | Patrick Taillandier | IRD France | GAMA Platform, COMOKIT, JASSS critique survey |
 | **Altera.al** | — | — | Project Sid |
+| **SNA@KDD** | Giulio Rossetti | National Research Council, Italy | YSocial | 
 
 ---
 
@@ -391,7 +392,7 @@
 - **AutoGen** — Wu et al., Microsoft. [[Paper](https://arxiv.org/abs/2308.08155)]
 - **GAMA Platform** — Classical spatial ABM platform with LLM MCP plugin. [[Code](https://github.com/gama-platform/gama)]
 - **AgentTorch** — Differentiable ABM for gradient-based population optimization. [[Code](http://github.com/AgentTorch/AgentTorch)]
-- **YSocial** — Social media digital twin platform. [[Paper](https://arxiv.org/abs/2408.00818)] [[Code](https://ysocialtwin.github.io/)]
+- **YSocial** — Social media digital twin platform. [[Paper](https://arxiv.org/abs/2408.00818)] [[Code](https://ysocialtwin.github.io/)] [[Website](http://y-not.social)]
 
 ---
 
